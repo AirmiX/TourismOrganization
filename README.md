@@ -8,6 +8,10 @@ Klonirati repozitorijum u trenutni direktorijum.
 ```
 git clone https://takmicenje.cloud.levi9.com/AirmiX/TourismOrganization.git
 ```
+Pozicionirati se na korenski direktorijum projekta.
+```
+cd TourismOrganization
+```
 
 ### Kompajliranje programa
 
